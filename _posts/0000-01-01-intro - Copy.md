@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck! Ana"
+title: "Welcome to our Ana!"
 ---
 
 Use the right arrow to begin!
